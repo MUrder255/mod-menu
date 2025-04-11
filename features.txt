@@ -1,0 +1,375 @@
+Health Regen/Heal on Kill:
+Regenerate health over time or upon killing enemies.
+
+Super Stamina/Endurance:
+Increase the player's stamina or endurance, allowing for longer activities without exhaustion.
+
+Super Strength/Jump Boost:
+Boost the player's strength, increasing damage output or jump height.
+
+Esp Ghost Mode:
+Make the player's character invisible to others while maintaining the ability to attack.
+
+Speedster Mode:
+Combine high speed with invulnerability or other special abilities.
+
+Blink/Teleport Spam:
+Teleport short distances repeatedly to move at high speeds.
+
+Duck Jump/Frog Hop:
+Boost the player's jump height using a crouch mechanic.
+
+Bunny Hopping:
+Move at high speeds by continuously jumping and strafing.
+
+Super Shotgun/Dual Wield:
+Increase weapon damage, range, or firing rate by dual-wielding weapons.
+
+Grenade Launcher/Air Strikes:
+Launch explosives at enemies from a distance or call in air strikes.
+
+Fatality/Killstreak Rewards:
+Unlock special abilities or rewards based on kill streaks.
+
+Skin Changer/Player Model Changer:
+Change the player's character model or skin.
+
+No Spread/Perfect Accuracy:
+Remove weapon spread and ensure perfect accuracy.
+
+Crit Chance Multiplier:
+Boost critical hit chance for specific weapons or situations.
+
+Hitbox Manipulation:
+Change the size, shape, or position of hitboxes for weapons or characters.
+
+Recoil Compensation/Zero Recoil:
+Automatically adjust aim to compensate for weapon recoil.
+
+One-Hit Wonders/One-Shot Pistol:
+Kill enemies with a single pistol shot.
+
+Headshot Aimbot:
+Automatically aim for headshots with high accuracy.
+
+Crit Aimbot:
+Prioritize critical hit opportunities with the aimbot.
+
+Aim Through Walls/Trace Aimbot:
+Aim through walls or objects using line-of-sight prediction.
+
+No Reload Auto Aim:
+Automatically aim while reloading weapons.
+
+Super Snowball Fight:
+Launch snowballs at high speeds and deal increased damage.
+
+No Fall Damage Jump:
+Prevent fall damage only when jumping from high places.
+
+Infinite Stamina/Unlock All Perks:
+Unlock all perks and abilities, and remove stamina limits.
+
+No Clipping Through Entities/NPC:
+Phase through NPCs or other players while retaining collision with the environment.
+
+Terrain Surfing:
+Move across terrain as if riding a wave.
+
+Run Through Doors/Objects:
+Move through closed doors or objects as if they were open.
+
+No Map Loaders/Nomap:
+Remove map loaders and skip level transitions.
+
+Godmode Only/Bossmode:
+Combine god mode with other special abilities or perks.
+
+ESP Stealth Godmode:
+Make the player's character invisible to enemies while retaining the ability to attack.
+
+Super Far Sight/Zoom Hack:
+Increase the player's field of view or enable x-ray vision.
+
+No Step On/No Collision With Certain Entities:
+Phase through specific objects, NPCs, or players while retaining collision with others.
+
+No Collision Between All Entities:
+Remove collision between all entities, allowing players to phase through each other and the environment.
+
+Terrain Modification Through Others:
+Modify terrain through walls, objects, or other players.
+
+Remove All Collision:
+Remove collision from all objects and players, turning the map into a transparent ghost town.
+
+Delete All Scripts/Modules/Parts:
+Remove all scripts, modules, parts, or decals from the map.
+
+Remove All Physics/Break Physics:
+Disable physics engines for objects or characters.
+
+Remove All Welds/Constraints:
+Remove all welds, constraints, or attachments between objects.
+
+Remove All Lighting/Fire:
+Disable lighting effects and extinguish fires.
+
+Remove All Sound Effects/Music:
+Disable sound effects and music in the game.
+
+No Textures/Remove Textures:
+Remove textures from objects, characters, or UI elements.
+
+Remove All Effects/Shaders:
+Disable visual effects, shaders, or post-processing filters.
+
+No HUD Elements/Tournament HUD Only:
+Remove most HUD elements, leaving only essential information like health and score.
+
+Custom Chat HUD/Announcer:
+Change the appearance and behavior of the chat HUD or announcer text.
+
+No Kill Feed/Death Announcer:
+Disable the kill feed or death announcer.
+
+Advanced Miscellaneous Modifications:
+
+Server Hopping/Place Hopping:
+Switch between servers or places without loading screens.
+
+Super Run Through Fences/Walls/Doors/Objects:
+Move through fences, walls, doors, or objects as if they were open.
+
+Infinite Money/Cash Giver/Grantor:
+Give players unlimited money or cash on demand.
+
+Admin/Operator Console:
+Access a console with advanced admin commands and features.
+
+In-Game 3D Model Viewer/Viewer:
+View 3D models, skins, or other assets in-game.
+
+Map Builder/Auto-Builder:
+Automatically build structures, map layouts, or terrain designs.
+
+Super Place Scaling/X-Scale:
+Enlarge or shrink the size of the game world, objects, or characters.
+
+Custom HUD/Heads-Up Display:
+Create custom HUD elements or overlays.
+
+Custom Resolutions/Fullscreen Resolution Scaling:
+Change the game's resolution or fullscreen scaling factors.
+
+Custom Matchmaking Settings/Configurations:
+Modify matchmaking settings, queue times, or party sizes.
+
+Infinite Resources/Loots Bag Spawner/Spawner:
+Spawn infinite resources, loot bags, or other pickupable items.
+
+Freeze Time/Pause Gameplay/Timescale:
+Freeze time, pause gameplay, or adjust the game's timescale.
+
+No Gravity Switch/Gravity Swap:
+Toggles between normal gravity and no gravity states.
+
+Super Moon Jump/Bunny Hop/Jetpack/Glide:
+Move at high speeds by continuously jumping, strafe-jumping, gliding, or using a jetpack-like ability.
+
+No Skill Cooldown Reset:
+Reset skill cooldown timers instantly.
+
+Easy Money Machine/Money Spawner:
+Automatically generate money from thin air.
+
+Lootgod/Thievery/Hacking/Farming:
+Automatically collect nearby loot, steal items from other players, hack NPCs, or farm resources at high rates.
+
+ESP Hack ESP/Aimbot ESP/Ghost ESP:
+Provide additional information about enemy positions, health, or other attributes on the game's mini-map or HUD.
+
+Trailblazer/Arrow Pointing to Loot/AreaESP:
+Display arrows pointing towards loot spawns, objectives, or areas of interest.
+
+Custom Song Requests/Music Changer:
+Request custom songs or change the game's background music.
+
+Kick/Vote Kick/Ban/Anti-Kick/Anti-Ban:
+Kick, ban, or vote-kick players, or protect yourself from being kicked or banned.
+
+Warframe/Ninja Mode:
+Enable high-speed movement, stealth, and other abilities reminiscent of Warframe or ninja gameplay.
+
+Super Charge/Sprint Tactic/Super Mode/Turbo Mode:
+Boost the player's speed, stamina, or abilities beyond normal limits.
+
+Transform Player/Opponent:
+Transform the player or other opponents into various objects, characters, or entities.
+
+Teleportation/Instakill PvE/Grand Theft Auto/GTA Hack/NPC Gank/Gank Aimbot:
+Teleport to enemies, instakill them in PvE, or use GTA-style hacks to assault NPCs or other players en masse.
+
+Player Modifications:
+
+Character Appearance:
+Customize the player's avatar appearance, including clothing, accessories, and body proportions.
+
+Health/Stamina:
+Modify the player's health, stamina, or energy levels.
+
+Damage Multiplier:
+Change the amount of damage the player deals or receives.
+
+Experience Points (XP) Multiplier:
+Increase the player's XP gain rate.
+
+Level/Skill Multiplier:
+Automatically level up or increase specific skills.
+
+Inventory Hacks:
+Give the player unlimited items, resources, or equipment.
+
+Crafting Hacks:
+Skip crafting timers or unlock all crafting recipes.
+
+Quests/Progression Hacks:
+Skip quests or automatically progress through the game's story.
+
+Movement Modifications:
+
+Teleportation:
+Instantly move the player to any location in the game world.
+
+Fly/No Clip:
+Enable the player to fly or phase through objects and walls.
+
+Speed Hacks:
+Increase the player's movement speed beyond normal limits.
+
+High Jump:
+Boost the player's jump height.
+
+Super Speed (Warp):
+Move the player's camera and controls at high speed.
+
+Moon Jump:
+Increase vertical jump height exponentially.
+
+Jump Reset:
+Reset the player's jump timer to always jump higher.
+
+Combat Modifications:
+
+Infinite Ammo/No Reload:
+Prevent the player's weapon from running out of ammo and disable the need for reloading.
+
+Auto-Aim (Aimbot):
+Automatically aim the player's weapon at enemies.
+
+One-Shot/One Hit Kill:
+Kill enemies with a single attack.
+
+No Recoil:
+Eliminate weapon recoil or sway.
+
+Headshot Damage:
+Increase damage dealt to headshots.
+
+Critical Hit Chance:
+Boost the probability of critical hits.
+
+Auto-Collectibles:
+Automatically collect nearby items or resources.
+
+Auto-Equip Best Gear:
+Equip the player with the best available gear automatically.
+
+Gameplay Modifications:
+
+God Mode/Invincibility:
+Make the player invulnerable to damage.
+
+No Collision/Noclip:
+Enable the player to move through objects and walls without colliding with them.
+
+Super Punch/Melee Damage:
+Increase melee damage output.
+
+Remove Weather/Environmental Effects:
+Disable weather, environmental hazards, or other in-game obstacles.
+
+Remove Map Boundaries:
+Allow players to move outside the intended game boundaries.
+
+No Fall Damage:
+Prevent fall damage from high drops.
+
+Farseer/Wallhack/ESP:
+See through walls and identify enemies that would otherwise be hidden.
+
+No Skill Cooldowns:
+Eliminate skill or ability cooldown timers.
+
+Instant Build Mode:
+Enable instant building in creative mode.
+
+Map Modifications:
+
+Transparent Objects/No Clip Through:
+Make objects transparent or phase through them.
+
+No Gravity:
+Disable gravity for objects or characters.
+
+Delete Objects/Maps:
+Remove objects or entire maps from the game.
+
+No Obstruction:
+Remove obstacles and allow players to move through objects.
+
+Super Build Mode:
+Unlock all building blocks and features in creative mode.
+
+Remove Terrain Limitations:
+Remove restrictions on terrain modification.
+
+UI Modifications:
+
+Hide UI Elements:
+Hide or remove user interface elements like the mini-map, health bars, or names.
+
+No Chat Cooldown:
+Remove chat cooldown timers.
+
+Custom Game Info:
+Change game names, descriptions, or other metadata.
+
+No Loading Screens:
+Skip loading screens.
+
+Miscellaneous Modifications:
+
+Admin/Operator Commands:
+Grant players access to special commands with various effects, such as freezing players, removing objects, or forcing game changes.
+
+Spectate Mode:
+Allow players to observe the game without participating.
+
+Multi-Player Play:
+Join games with other players or control multiple characters simultaneously.
+
+Vehicle Hacks:
+Modify vehicle speeds, handling, or attributes.
+
+NPC/Enemy Hacks:
+Alter AI behavior, health, or damage output for non-player characters (NPCs) or enemies.
+
+Map/Place Exploits:
+Exploit game mechanics specific to individual maps or places.
+
+Client-Side Mods:
+Modify game behavior on the client-side without affecting server-side data.
+
+Server-Side Mods:
+Modify game behavior on the server-side, affecting all connected clients.
