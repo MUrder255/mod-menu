@@ -1,50 +1,69 @@
-debugX = true
+-- Ensure Rayfield is loaded
+local Rayfield = require(game.ReplicatedStorage:WaitForChild("Rayfield"))
 
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-
+-- Create the UI window
 local Window = Rayfield:CreateWindow({
-   Name = "Rayfield Example Window",
-   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-   LoadingTitle = "Rayfield Interface Suite",
-   LoadingSubtitle = "by Sirius",
-   Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
-
-   DisableRayfieldPrompts = false,
-   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
-
-   ConfigurationSaving = {
-      Enabled = true,
-      FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "Big Hub"
-   },
-
-   Discord = {
-      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
-      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
-      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
-   },
-
-   KeySystem = false, -- Set this to true to use our key system
-   KeySettings = {
-      Title = "Untitled",
-      Subtitle = "Key System",
-      Note = "No method of obtaining the key is provided", -- Use this to tell the user how to get a key
-      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
-      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
-      GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-      Key = {"Hello"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
-   }
+    Name = "Universal Mod Menu",
+    LoadingTitle = "Loading Mod Menu...",
+    LoadingSubtitle = "Please wait",
+    ConfigurationSaving = { Enabled = true, FolderName = "ModMenuConfig", FileName = "Settings" },
+    Discord = { Enabled = true, Invite = "discord.gg/yourlink", RememberJoins = true },
+    Keybinds = { Enabled = true, Keybind = Enum.KeyCode.LeftControl },
 })
 
-local Tab = Window:CreateTab("Tab Example", 4483362458) -- Title, Image
+-- Create tabs dynamically (Player, Combat, Movement, etc.)
+local tabs = {}
 
-local Section = Tab:CreateSection("Section Example")
+-- Sample Features (you will have your own)
+local features = {
+    SuperStamina = {
+        Category = "Player",
+        Description = "Increases stamina and endurance",
+        Callback = function()
+            local player = game.Players.LocalPlayer
+            local humanoid = player.Character:WaitForChild("Humanoid")
+            humanoid.Stamina = math.huge  -- Infinite stamina
+        end
+    },
+    HealOnKill = {
+        Category = "Player",
+        Description = "Restores health after a kill",
+        Callback = function(killer, victim)
+            if killer == game.Players.LocalPlayer then
+                local humanoid = game.Players.LocalPlayer.Character:WaitForChild("Humanoid")
+                humanoid.Health = humanoid.Health + 50  -- Heal by 50 health after each kill
+            end
+        end
+    },
+    SpeedsterMode = {
+        Category = "Movement",
+        Description = "Increases player speed dramatically",
+        Callback = function()
+            local player = game.Players.LocalPlayer
+            local humanoid = player.Character:WaitForChild("Humanoid")
+            humanoid.WalkSpeed = 100  -- Increase speed to 100
+        end
+    }
+}
 
-local Button = Tab:CreateButton({
-   Name = "Button Example",
-   Callback = function()
-   -- The function that takes place when the button is pressed
-   end,
-})
+-- Iterate over the feature list and create tabs and buttons dynamically
+for featureName, featureData in pairs(features) do
+    -- Create tab for category if it doesn't exist
+    if not tabs[featureData.Category] then
+        tabs[featureData.Category] = Window:CreateTab(featureData.Category)
+    end
 
-Rayfield:LoadConfiguration()
+    -- Create section in the tab
+    local section = tabs[featureData.Category]:CreateSection(featureData.Category)
+
+    -- Create button for each feature
+    section:CreateButton({
+        Name = featureName,  -- Name of the feature button
+        Description = featureData.Description,  -- Feature description
+        Callback = function()
+            featureData.Callback()  -- Execute the feature callback function
+        end
+    })
+end
+
+-- Additional UI handling or configuration logic can go here
