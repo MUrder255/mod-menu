@@ -1,375 +1,255 @@
-Health Regen/Heal on Kill:
-Regenerate health over time or upon killing enemies.
+Health Regen/Heal on Kill
 
-Super Stamina/Endurance:
-Increase the player's stamina or endurance, allowing for longer activities without exhaustion.
+Super Stamina/Endurance
 
-Super Strength/Jump Boost:
-Boost the player's strength, increasing damage output or jump height.
+Super Strength/Jump Boost
 
-Esp Ghost Mode:
-Make the player's character invisible to others while maintaining the ability to attack.
+Esp Ghost Mode
 
-Speedster Mode:
-Combine high speed with invulnerability or other special abilities.
+Speedster Mode
 
-Blink/Teleport Spam:
-Teleport short distances repeatedly to move at high speeds.
+Blink/Teleport Spam
 
-Duck Jump/Frog Hop:
-Boost the player's jump height using a crouch mechanic.
+Duck Jump/Frog Hop
 
-Bunny Hopping:
-Move at high speeds by continuously jumping and strafing.
+Bunny Hopping
 
-Super Shotgun/Dual Wield:
-Increase weapon damage, range, or firing rate by dual-wielding weapons.
+Super Shotgun/Dual Wield
 
-Grenade Launcher/Air Strikes:
-Launch explosives at enemies from a distance or call in air strikes.
+Grenade Launcher/Air Strikes
 
-Fatality/Killstreak Rewards:
-Unlock special abilities or rewards based on kill streaks.
+Fatality/Killstreak Rewards
 
-Skin Changer/Player Model Changer:
-Change the player's character model or skin.
+Skin Changer/Player Model Changer
 
-No Spread/Perfect Accuracy:
-Remove weapon spread and ensure perfect accuracy.
+No Spread/Perfect Accuracy
 
-Crit Chance Multiplier:
-Boost critical hit chance for specific weapons or situations.
+Crit Chance Multiplier
 
-Hitbox Manipulation:
-Change the size, shape, or position of hitboxes for weapons or characters.
+Hitbox Manipulation
 
-Recoil Compensation/Zero Recoil:
-Automatically adjust aim to compensate for weapon recoil.
+Recoil Compensation/Zero Recoil
 
-One-Hit Wonders/One-Shot Pistol:
-Kill enemies with a single pistol shot.
+One-Hit Wonders/One-Shot Pistol
 
-Headshot Aimbot:
-Automatically aim for headshots with high accuracy.
+Headshot Aimbot
 
-Crit Aimbot:
-Prioritize critical hit opportunities with the aimbot.
+Crit Aimbot
 
-Aim Through Walls/Trace Aimbot:
-Aim through walls or objects using line-of-sight prediction.
+Aim Through Walls/Trace Aimbot
 
-No Reload Auto Aim:
-Automatically aim while reloading weapons.
+No Reload Auto Aim
 
-Super Snowball Fight:
-Launch snowballs at high speeds and deal increased damage.
+Super Snowball Fight
 
-No Fall Damage Jump:
-Prevent fall damage only when jumping from high places.
+No Fall Damage Jump
 
-Infinite Stamina/Unlock All Perks:
-Unlock all perks and abilities, and remove stamina limits.
+Infinite Stamina/Unlock All Perks
 
-No Clipping Through Entities/NPC:
-Phase through NPCs or other players while retaining collision with the environment.
+No Clipping Through Entities/NPC
 
-Terrain Surfing:
-Move across terrain as if riding a wave.
+Terrain Surfing
 
-Run Through Doors/Objects:
-Move through closed doors or objects as if they were open.
+Run Through Doors/Objects
 
-No Map Loaders/Nomap:
-Remove map loaders and skip level transitions.
+No Map Loaders/Nomap
 
-Godmode Only/Bossmode:
-Combine god mode with other special abilities or perks.
+Godmode Only/Bossmode
 
-ESP Stealth Godmode:
-Make the player's character invisible to enemies while retaining the ability to attack.
+ESP Stealth Godmode
 
-Super Far Sight/Zoom Hack:
-Increase the player's field of view or enable x-ray vision.
+Super Far Sight/Zoom Hack
 
-No Step On/No Collision With Certain Entities:
-Phase through specific objects, NPCs, or players while retaining collision with others.
+No Step On/No Collision With Certain Entities
 
-No Collision Between All Entities:
-Remove collision between all entities, allowing players to phase through each other and the environment.
+No Collision Between All Entities
 
-Terrain Modification Through Others:
-Modify terrain through walls, objects, or other players.
+Terrain Modification Through Others
 
-Remove All Collision:
-Remove collision from all objects and players, turning the map into a transparent ghost town.
+Remove All Collision
 
-Delete All Scripts/Modules/Parts:
-Remove all scripts, modules, parts, or decals from the map.
+Delete All Scripts/Modules/Parts
 
-Remove All Physics/Break Physics:
-Disable physics engines for objects or characters.
+Remove All Physics/Break Physics
 
-Remove All Welds/Constraints:
-Remove all welds, constraints, or attachments between objects.
+Remove All Welds/Constraints
 
-Remove All Lighting/Fire:
-Disable lighting effects and extinguish fires.
+Remove All Lighting/Fire
 
-Remove All Sound Effects/Music:
-Disable sound effects and music in the game.
+Remove All Sound Effects/Music
 
-No Textures/Remove Textures:
-Remove textures from objects, characters, or UI elements.
+No Textures/Remove Textures
 
-Remove All Effects/Shaders:
-Disable visual effects, shaders, or post-processing filters.
+Remove All Effects/Shaders
 
-No HUD Elements/Tournament HUD Only:
-Remove most HUD elements, leaving only essential information like health and score.
+No HUD Elements/Tournament HUD Only
 
-Custom Chat HUD/Announcer:
-Change the appearance and behavior of the chat HUD or announcer text.
+Custom Chat HUD/Announcer
 
-No Kill Feed/Death Announcer:
-Disable the kill feed or death announcer.
+No Kill Feed/Death Announcer
 
-Advanced Miscellaneous Modifications:
+Advanced Miscellaneous Modifications
 
-Server Hopping/Place Hopping:
-Switch between servers or places without loading screens.
+Server Hopping/Place Hopping
 
-Super Run Through Fences/Walls/Doors/Objects:
-Move through fences, walls, doors, or objects as if they were open.
+Super Run Through Fences/Walls/Doors/Objects
 
-Infinite Money/Cash Giver/Grantor:
-Give players unlimited money or cash on demand.
+Infinite Money/Cash Giver/Grantor
 
-Admin/Operator Console:
-Access a console with advanced admin commands and features.
+Admin/Operator Console
 
-In-Game 3D Model Viewer/Viewer:
-View 3D models, skins, or other assets in-game.
+In-Game 3D Model Viewer/Viewer
 
-Map Builder/Auto-Builder:
-Automatically build structures, map layouts, or terrain designs.
+Map Builder/Auto-Builder
 
-Super Place Scaling/X-Scale:
-Enlarge or shrink the size of the game world, objects, or characters.
+Super Place Scaling/X-Scale
 
-Custom HUD/Heads-Up Display:
-Create custom HUD elements or overlays.
+Custom HUD/Heads-Up Display
 
-Custom Resolutions/Fullscreen Resolution Scaling:
-Change the game's resolution or fullscreen scaling factors.
+Custom Resolutions/Fullscreen Resolution Scaling
 
-Custom Matchmaking Settings/Configurations:
-Modify matchmaking settings, queue times, or party sizes.
+Custom Matchmaking Settings/Configurations
 
-Infinite Resources/Loots Bag Spawner/Spawner:
-Spawn infinite resources, loot bags, or other pickupable items.
+Infinite Resources/Loots Bag Spawner/Spawner
 
-Freeze Time/Pause Gameplay/Timescale:
-Freeze time, pause gameplay, or adjust the game's timescale.
+Freeze Time/Pause Gameplay/Timescale
 
-No Gravity Switch/Gravity Swap:
-Toggles between normal gravity and no gravity states.
+No Gravity Switch/Gravity Swap
 
-Super Moon Jump/Bunny Hop/Jetpack/Glide:
-Move at high speeds by continuously jumping, strafe-jumping, gliding, or using a jetpack-like ability.
+Super Moon Jump/Bunny Hop/Jetpack/Glide
 
-No Skill Cooldown Reset:
-Reset skill cooldown timers instantly.
+No Skill Cooldown Reset
 
-Easy Money Machine/Money Spawner:
-Automatically generate money from thin air.
+Easy Money Machine/Money Spawner
 
-Lootgod/Thievery/Hacking/Farming:
-Automatically collect nearby loot, steal items from other players, hack NPCs, or farm resources at high rates.
+Lootgod/Thievery/Hacking/Farming
 
-ESP Hack ESP/Aimbot ESP/Ghost ESP:
-Provide additional information about enemy positions, health, or other attributes on the game's mini-map or HUD.
+ESP Hack ESP/Aimbot ESP/Ghost ESP
 
-Trailblazer/Arrow Pointing to Loot/AreaESP:
-Display arrows pointing towards loot spawns, objectives, or areas of interest.
+Trailblazer/Arrow Pointing to Loot/AreaESP
 
-Custom Song Requests/Music Changer:
-Request custom songs or change the game's background music.
+Custom Song Requests/Music Changer
 
-Kick/Vote Kick/Ban/Anti-Kick/Anti-Ban:
-Kick, ban, or vote-kick players, or protect yourself from being kicked or banned.
+Kick/Vote Kick/Ban/Anti-Kick/Anti-Ban
 
-Warframe/Ninja Mode:
-Enable high-speed movement, stealth, and other abilities reminiscent of Warframe or ninja gameplay.
+Warframe/Ninja Mode
 
-Super Charge/Sprint Tactic/Super Mode/Turbo Mode:
-Boost the player's speed, stamina, or abilities beyond normal limits.
+Super Charge/Sprint Tactic/Super Mode/Turbo Mode
 
-Transform Player/Opponent:
-Transform the player or other opponents into various objects, characters, or entities.
+Transform Player/Opponent
 
-Teleportation/Instakill PvE/Grand Theft Auto/GTA Hack/NPC Gank/Gank Aimbot:
-Teleport to enemies, instakill them in PvE, or use GTA-style hacks to assault NPCs or other players en masse.
+Teleportation/Instakill PvE/Grand Theft Auto/GTA Hack/NPC Gank/Gank Aimbot
 
-Player Modifications:
+Player Modifications
 
-Character Appearance:
-Customize the player's avatar appearance, including clothing, accessories, and body proportions.
+Character Appearance
 
-Health/Stamina:
-Modify the player's health, stamina, or energy levels.
+Health/Stamina
 
-Damage Multiplier:
-Change the amount of damage the player deals or receives.
+Damage Multiplier
 
-Experience Points (XP) Multiplier:
-Increase the player's XP gain rate.
+Experience Points (XP) Multiplier
 
-Level/Skill Multiplier:
-Automatically level up or increase specific skills.
+Level/Skill Multiplier
 
-Inventory Hacks:
-Give the player unlimited items, resources, or equipment.
+Inventory Hacks
 
-Crafting Hacks:
-Skip crafting timers or unlock all crafting recipes.
+Crafting Hacks
 
-Quests/Progression Hacks:
-Skip quests or automatically progress through the game's story.
+Quests/Progression Hacks
 
-Movement Modifications:
+Movement Modifications
 
-Teleportation:
-Instantly move the player to any location in the game world.
+Teleportation
 
-Fly/No Clip:
-Enable the player to fly or phase through objects and walls.
+Fly/No Clip
 
-Speed Hacks:
-Increase the player's movement speed beyond normal limits.
+Speed Hacks
 
-High Jump:
-Boost the player's jump height.
+High Jump
 
-Super Speed (Warp):
-Move the player's camera and controls at high speed.
+Super Speed (Warp)
 
-Moon Jump:
-Increase vertical jump height exponentially.
+Moon Jump
 
-Jump Reset:
-Reset the player's jump timer to always jump higher.
+Jump Reset
 
-Combat Modifications:
+Combat Modifications
 
-Infinite Ammo/No Reload:
-Prevent the player's weapon from running out of ammo and disable the need for reloading.
+Infinite Ammo/No Reload
 
-Auto-Aim (Aimbot):
-Automatically aim the player's weapon at enemies.
+Auto-Aim (Aimbot)
 
-One-Shot/One Hit Kill:
-Kill enemies with a single attack.
+One-Shot/One Hit Kill
 
-No Recoil:
-Eliminate weapon recoil or sway.
+No Recoil
 
-Headshot Damage:
-Increase damage dealt to headshots.
+Headshot Damage
 
-Critical Hit Chance:
-Boost the probability of critical hits.
+Critical Hit Chance
 
-Auto-Collectibles:
-Automatically collect nearby items or resources.
+Auto-Collectibles
 
-Auto-Equip Best Gear:
-Equip the player with the best available gear automatically.
+Auto-Equip Best Gear
 
-Gameplay Modifications:
+Gameplay Modifications
 
-God Mode/Invincibility:
-Make the player invulnerable to damage.
+God Mode/Invincibility
 
-No Collision/Noclip:
-Enable the player to move through objects and walls without colliding with them.
+No Collision/Noclip
 
-Super Punch/Melee Damage:
-Increase melee damage output.
+Super Punch/Melee Damage
 
-Remove Weather/Environmental Effects:
-Disable weather, environmental hazards, or other in-game obstacles.
+Remove Weather/Environmental Effects
 
-Remove Map Boundaries:
-Allow players to move outside the intended game boundaries.
+Remove Map Boundaries
 
-No Fall Damage:
-Prevent fall damage from high drops.
+No Fall Damage
 
-Farseer/Wallhack/ESP:
-See through walls and identify enemies that would otherwise be hidden.
+Farseer/Wallhack/ESP
 
-No Skill Cooldowns:
-Eliminate skill or ability cooldown timers.
+No Skill Cooldowns
 
-Instant Build Mode:
-Enable instant building in creative mode.
+Instant Build Mode
 
-Map Modifications:
+Map Modifications
 
-Transparent Objects/No Clip Through:
-Make objects transparent or phase through them.
+Transparent Objects/No Clip Through
 
-No Gravity:
-Disable gravity for objects or characters.
+No Gravity
 
-Delete Objects/Maps:
-Remove objects or entire maps from the game.
+Delete Objects/Maps
 
-No Obstruction:
-Remove obstacles and allow players to move through objects.
+No Obstruction
 
-Super Build Mode:
-Unlock all building blocks and features in creative mode.
+Super Build Mode
 
-Remove Terrain Limitations:
-Remove restrictions on terrain modification.
+Remove Terrain Limitations
 
-UI Modifications:
+UI Modifications
 
-Hide UI Elements:
-Hide or remove user interface elements like the mini-map, health bars, or names.
+Hide UI Elements
 
-No Chat Cooldown:
-Remove chat cooldown timers.
+No Chat Cooldown
 
-Custom Game Info:
-Change game names, descriptions, or other metadata.
+Custom Game Info
 
-No Loading Screens:
-Skip loading screens.
+No Loading Screens
 
-Miscellaneous Modifications:
+Miscellaneous Modifications
 
-Admin/Operator Commands:
-Grant players access to special commands with various effects, such as freezing players, removing objects, or forcing game changes.
+Admin/Operator Commands
 
-Spectate Mode:
-Allow players to observe the game without participating.
+Spectate Mode
 
-Multi-Player Play:
-Join games with other players or control multiple characters simultaneously.
+Multi-Player Play
 
-Vehicle Hacks:
-Modify vehicle speeds, handling, or attributes.
+Vehicle Hacks
 
-NPC/Enemy Hacks:
-Alter AI behavior, health, or damage output for non-player characters (NPCs) or enemies.
+NPC/Enemy Hacks
 
-Map/Place Exploits:
-Exploit game mechanics specific to individual maps or places.
+Map/Place Exploits
 
-Client-Side Mods:
-Modify game behavior on the client-side without affecting server-side data.
+Client-Side Mods
 
-Server-Side Mods:
-Modify game behavior on the server-side, affecting all connected clients.
+Server-Side Mods
